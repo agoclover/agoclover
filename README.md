@@ -1,4 +1,4 @@
-# Hi, I'm Zhang Chao there 👋
+# Hi, I'm Zhang Chao 👋
 
 I'm a data science learner who is passionate about big data technologies and of course open-source community. Some technologies I enjoy working with include Apache projects such as Hadoop, Spark and Flink. I recently was selected to be an ✨ Arctic Code Vault Contributor ✨ on [machine_learning](https://github.com/agoclover/machine_learning).
 
