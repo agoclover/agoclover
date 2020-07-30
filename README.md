@@ -1,9 +1,6 @@
 ### Hi, I'm Zhang Chao there 👋
 
-<!--
-**agoclover/agoclover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm a data science learner who is passionate about big data technologies and of course open-source community. Some technologies I enjoy working with include Apache projects such as Hadoop, Spark and Flink. I recently was selected to be an Arctic Code Vault Contributor on [agoclover/machine_learning](https://github.com/agoclover/machine_learning).
+I'm a data science learner who is passionate about big data technologies and of course open-source community. Some technologies I enjoy working with include Apache projects such as Hadoop, Spark and Flink. I recently was selected to be an ✨ Arctic Code Vault Contributor ✨ on [agoclover/machine_learning](https://github.com/agoclover/machine_learning).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ I'm a data science learner who is passionate about big data technologies and of 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Find me around the web 🌎:
+Share ideas on my blog: [zhangchao.top](http://zhangchao.top/) 💼
+Reach me via e-mail: [hi@zhangchao.top](mailto:hi@zhangchao.top) 📫
