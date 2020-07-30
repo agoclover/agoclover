@@ -5,4 +5,3 @@ I'm a data science learner who is passionate about big data technologies and of 
 # Find me around the web 🌎:<a href="https://github.com/agoclover"><img align="left" width="150" height="150" src="https://strawberryamoszc.oss-cn-shanghai.aliyuncs.com/img/amos.jpg"></a>
 - Share ideas on my blog: [zhangchao.top](http://zhangchao.top/) 💼
 - Reach me via e-mail: [hi@zhangchao.top](mailto:hi@zhangchao.top) 📫
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
