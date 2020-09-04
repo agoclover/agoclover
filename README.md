@@ -17,7 +17,7 @@ I'm a data science learner who is passionate about big data technologies and of 
 
  Reach me via e-mail: [hi@zhangchao.top](mailto:hi@zhangchao.top) 📫
 
-|  |  |
+|  | **Languages and tools** |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=agoclover&show_icons=true&hide_border=true) | **Languages and tools**<br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><br /><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br /> |
+| ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=agoclover&show_icons=true&hide_border=true) | **Excellent**<br />Hadoop, Spark, Flink, Kafka, Flume, Hive, Hbase<br />**Proficient**<br />Zookeeper, ElasticSearch, Redis<br />**Competent**<br />Kylin, Presto, Kibana, Atlas, Ranger, Git<br />**Language**<br />Java, Scala, Python, Shell |
 
