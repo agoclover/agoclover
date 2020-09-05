@@ -19,5 +19,6 @@ I'm a data science learner who is passionate about big data technologies and of 
 
 |  |  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=agoclover&show_icons=true&hide_border=true) | **Excellent**<br />Hadoop, Spark, Flink, Kafka, Flume, Hive, Hbase<br />**Proficient**<br />Zookeeper, ElasticSearch, Redis, Git<br />**Competent**<br />Kylin, Presto, Kibana, Atlas, Ranger<br />**Language**<br />Java, Scala, Python, Shell |
+| **Excellent**<br />Spark, Flink, Hadoop,Kafka, Flume, Hive, Hbase<br />**Proficient**<br />Zookeeper, ElasticSearch, Redis, Git<br />**Competent**<br />Kylin, Presto, Kibana, Atlas, Ranger | **Knowledge**<br />DW for OLAP  & real-time computing, ELT, Data Pipeline<br />Machine Learning, Recommenders<br />**Language**<br />Java, Scala, Python, Shell |
 
+![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=agoclover&show_icons=true&hide_border=true)
